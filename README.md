@@ -23,6 +23,16 @@ The project combines technical vulnerability assessment with:
 **Important:** This project was conducted in a controlled laboratory environment against an intentionally vulnerable system. Business risk ratings and management recommendations are simulated and do not represent an assessment of a production organization.
 
 ---
+## Project Deliverables
+
+| Deliverable | Description |
+|---|---|
+| [Assessment Reports](reports/) | Seven-section IT Security Risk Assessment covering methodology, findings, COSO/NIST control mapping, treatment recommendations, and limitations |
+| [Risk Management Workbook](risk-management/IT_Security_Risk_Register_Metasploitable_2026.xlsx) | Four-tab workbook containing the Risk Register, Risk Scoring Methodology, Risk Treatment Plan, and Executive Dashboard |
+
+**Assessment Results:** 66 Greenbone findings identified; 13 Critical findings reviewed in detail and consolidated into 12 distinct risks (9 Critical, 3 High).
+
+**Assessment Scope:** Intentionally vulnerable Metasploitable laboratory system with simulated business risk analysis.
 
 ## Laboratory Environment
 
@@ -236,16 +246,6 @@ No remediation activities were performed during the assessment.
 
 ---
 
-## Project Deliverables
-
-| Deliverable | Description |
-|---|---|
-| [Assessment Reports](reports/) | Seven-section IT Security Risk Assessment covering methodology, findings, COSO/NIST control mapping, treatment recommendations, and limitations |
-| [Risk Management Workbook](risk-management/IT_Security_Risk_Register_Metasploitable_2026.xlsx) | Four-tab workbook containing the Risk Register, Risk Scoring Methodology, Risk Treatment Plan, and Executive Dashboard |
-
-**Assessment Results:** 66 Greenbone findings identified; 13 Critical findings reviewed in detail and consolidated into 12 distinct risks (9 Critical, 3 High).
-
-**Assessment Scope:** Intentionally vulnerable Metasploitable laboratory system with simulated business risk analysis.
 
 ### IT Security Risk Assessment Report
 
