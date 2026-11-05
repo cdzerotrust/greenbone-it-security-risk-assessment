@@ -34,6 +34,32 @@ The project combines technical vulnerability assessment with:
 
 **Assessment Scope:** Intentionally vulnerable Metasploitable laboratory system with simulated business risk analysis.
 
+## Assessment Evidence
+
+### 1. Completed Greenbone Vulnerability Scan
+
+![Completed Greenbone Scan](screenshots/01-completed-scan.png)
+
+The Greenbone vulnerability assessment was completed successfully
+against the intentionally vulnerable Metasploitable laboratory system.
+
+### 2. Critical Vulnerability Findings
+
+![Greenbone Vulnerability Results](screenshots/02-vulnerability-results.png)
+
+The assessment identified 66 findings, including 13 Critical results.
+Detailed analysis consolidated these into 12 distinct registered risks.
+
+### 3. Executive Risk Dashboard
+
+![Executive Risk Dashboard](screenshots/03-executive-dashboard.png)
+
+The Executive Dashboard summarizes 12 registered risks:
+9 Critical and 3 High, with corresponding treatment priorities.
+
+Risk ratings reflect a simulated production scenario.
+No remediation or residual risk assessment was performed.
+
 ## Laboratory Environment
 
 | Component                | Technology                      |
